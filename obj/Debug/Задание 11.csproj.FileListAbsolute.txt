@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Учеба\Практика\Задание 11\Задание 11\obj\Debug\Задание 11.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Учеба\Практика\Задание 11\Задание 11\obj\Debug\Задание 11.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Учеба\Практика\Задание 11\Задание 11\bin\Debug\Задание 11.exe.config
+C:\Users\user\Documents\Учеба\Практика\Задание 11\Задание 11\bin\Debug\Задание 11.exe
+C:\Users\user\Documents\Учеба\Практика\Задание 11\Задание 11\bin\Debug\Задание 11.pdb
+C:\Users\user\Documents\Учеба\Практика\Задание 11\Задание 11\obj\Debug\Задание 11.exe
+C:\Users\user\Documents\Учеба\Практика\Задание 11\Задание 11\obj\Debug\Задание 11.pdb
